@@ -47,7 +47,7 @@ class handTrack():
 				h, w, c = img.shape
 				#center position
 				cx, cy, = int(lm.x * w), int(lm.y * h)
-				adding to the list
+				#adding to the list
 				lmList.append([id, cx, cy])
 			return lmList
 		return []
