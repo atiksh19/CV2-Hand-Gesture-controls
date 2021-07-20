@@ -17,4 +17,4 @@ The handTracker.py file returns the hand position and landmarks. It consists of 
 10. Move cursor
 11. Click
 # Demo Video
-[![CV2-Hand-Gesture-controls](https://img.youtube.com/vi/jQ8dZwTw8wQ)](https://www.youtube.com/watch?v=jQ8dZwTw8wQ)
+[![CV2-Hand-Gesture-controls](https://img.youtube.com/vi/O2JaNA2f2qk)](https://www.youtube.com/watch?v=O2JaNA2f2qk)
