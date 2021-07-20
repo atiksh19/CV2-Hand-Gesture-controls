@@ -16,3 +16,5 @@ The handTracker.py file returns the hand position and landmarks. It consists of 
 9. Maximize window
 10. Move cursor
 11. Click
+# Demo Video
+https://youtu.be/O2JaNA2f2qk
